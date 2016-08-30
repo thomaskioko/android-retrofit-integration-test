@@ -1,5 +1,8 @@
-Retrofit Test
+Retrofit Test 
 --------------------
+
+[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?maxAge=2592000)]()
+
 This is a project demonstrates how to write unit test for your endpoint. For this demo, we will use 
 [TMDB API](https://www.themoviedb.org/account/signup)  to fetch data.
 
@@ -75,3 +78,20 @@ Once you have it, open `gradle.properties` file and paste your API key in `TMDB_
 ## Libraries Used
  1. [Retrofit](http://square.github.io/retrofit/)
  2. [OkHTTP](http://square.github.io/okhttp/)
+ 
+
+```
+
+Copyright 2016 Thomas Kioko (code_wizard)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
